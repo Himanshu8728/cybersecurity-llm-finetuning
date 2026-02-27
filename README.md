@@ -54,6 +54,3 @@ This project focuses on fine-tuning a small Large Language Model (LLM) (TinyLlam
 
 ---
 
-## 👨‍💻 Author
-
-**Himanshu Mourya**
